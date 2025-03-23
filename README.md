@@ -22,11 +22,15 @@ Which Channel is contributing maximum to the sales?
 Highest selling category?
 
 Percentage of Total Orders delivered
+
+## Dashboard Interaction <a href="https://github.com/Tarunreddy2590/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Sales%20Report%202022.xlsx"> View Dashboard </a>
+
 ## Process
 Verify data for any missing values and anomalies, and sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
 Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
 ## Project Insight
 Women customers are more likely to buy products compared to men (~65%).
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
